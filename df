@@ -1,0 +1,23 @@
+[33mcommit 8aeb379bc601cc515907597bc15f68d17956d1e9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jfahler <jfahler@gmail.com>
+Date:   Thu Jun 25 14:50:56 2020 -0500
+
+    Plugged JavaScript into DOM manipulation for project and edited HTML and CSS.
+
+[33mcommit a335d8f6c0e938766dcfb5680b15243b13593b7c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jfahler <jfahler@gmail.com>
+Date:   Thu Jun 11 02:02:23 2020 -0500
+
+    Final version of JavaScript Basics project RPS game
+
+[33mcommit b3202e7778809711d0d45ad5347b71099f12dd43[m
+Author: jfahler <jfahler@gmail.com>
+Date:   Wed Jun 10 01:21:28 2020 -0500
+
+    Crappy RPS game. Still in progress.
+
+[33mcommit 66aec9e473a9a97c2fa86df4969ffdd93c195178[m
+Author: Joshua Fahler <jfahler@gmail.com>
+Date:   Tue Jun 9 16:29:22 2020 -0500
+
+    Initial commit
