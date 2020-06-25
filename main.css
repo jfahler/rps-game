@@ -116,36 +116,15 @@ span {
     font-size: 28px; 
 }
 
+#scoreboard .player-board {
+    font-family: Helvetica, sans-serif;  
+}
+
 #scoreboard .computer-board {
     font-family: 'Courier New', Courier, monospace; 
 }
 
-#bottombar {
-    position: fixed; 
-    bottom: 0; 
-    width: 100%; 
-    font-family: Helvetica, sans-serif; 
-    padding: 1em; 
-    background: lightgray; 
+#result-text-container {
+    font-family: Helvetica, sans-serif;  
 }
 
-#image-left {
-    float: left; 
-    width: 20%; 
-    height: 100px; 
-    padding: 1em 1em 3em 6em;  
-}
-
-#image-right {
-    float: right;  
-    width: 20%; 
-    height: 100px; 
-    padding: 1em 6em 3em 1em; 
-}
-
-img {
-    height: 100%; 
-    display: block; 
-    margin: auto; 
-    max-width: 100%; 
-}
